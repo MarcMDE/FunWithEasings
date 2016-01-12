@@ -1,0 +1,3 @@
+ceasings (C easings library)
+
+https://github.com/MarcMDE/Ceasings
